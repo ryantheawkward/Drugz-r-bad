@@ -1,16 +1,17 @@
 
 h1 {
-    font-family:'Times New Roman', Times, serif
+    font-family: comic 'Lucida Sans', 'Lucida Sans Regular',
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
 
 h2 {
-    font-family:'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif
 
 }
 
 body {
-font-family: 'Times New Roman', Times, serif;   
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 text-align: center;
 background-color: rgb(148, 219, 219);
 border-style:groove;
